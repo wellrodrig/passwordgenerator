@@ -186,6 +186,16 @@ input:focus {
   #verificador {
     margin: 10px 10px;
   }
+  
+  .botoes {
+  position: fixed;
+  right: 15px;
+  top: 18px;
+  background-color:#fff;
+  filter: drop-shadow(-15px 0px 10px #FFFFFF);
+  -webkit-filter: drop-shadow(-15px 0px 10px #FFFFFF);
+  -moz-filter: drop-shadow(-15px 0px 10px #FFFFFF);
+  }
 
   .grid2>input {
     margin: 15px 0px 0px 0px;
