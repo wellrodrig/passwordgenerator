@@ -190,7 +190,7 @@ input:focus {
   .botoes {
   position: fixed;
   right: 15px;
-  top: 18px;
+  top: 20px;
   background-color:#fff;
   filter: drop-shadow(-15px 0px 10px #FFFFFF);
   -webkit-filter: drop-shadow(-15px 0px 10px #FFFFFF);
